@@ -3,23 +3,23 @@
         "id":1,
         "img":"https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/pharnx%20(1).png",
         "name":"Sompharn VANGVERN",
-        "skill":32,
+        "skill":6,
         "project":"0",
         "Year":"0",
-        "xp":"1000",
+        "xp":"250",
          "status": "Dev",
-        "rank":"d"
+        "rank":"F"
     },
     {
         "id":2,
         "img":"https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/WhatsApp%20Image%202024-09-06%20at%2010.24.01-Photoroom.png",
         "name":"Oudone PHENGKHAMLAR",
-        "skill":32,
+        "skill":18,
         "project":0,
         "Year":"0",
-        "xp":"1000",
+        "xp":"250",
         "status": "Dev",
-        "rank":"d"
+        "rank":"E"
     },
      {            "id":3,
                 "img": "https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/Thavisouk%20.png",
