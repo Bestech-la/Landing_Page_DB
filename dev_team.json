@@ -2,11 +2,11 @@
     {
         "id":1,
         "img":"https://raw.githubusercontent.com/pharn001/rest-api/main/img/pharnx.png",
-        "name":"pharn",
+        "name":"Sompharn VANGVERN",
         "skill":32,
-        "project":2,
-        "Year":"1.5",
-        "xp":"10000",
+        "project":"0",
+        "Year":"0",
+        "xp":"1000",
          "status": "Dev",
         "rank":"d"
     },
@@ -24,11 +24,11 @@
     {
         "id":3,
         "img":"https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
-        "name":"don",
+        "name":"Oudone PHENGKHAMLAR",
         "skill":32,
-        "project":2,
-        "Year":"1.5",
-        "xp":"10000",
+        "project":0,
+        "Year":"0",
+        "xp":"1000",
         "status": "Dev",
         "rank":"d"
     },
