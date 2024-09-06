@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "img":"https://raw.githubusercontent.com/pharn001/rest-api/main/img/pharnx.png",
+        "img":"https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/pharnx%20(1).png",
         "name":"Sompharn VANGVERN",
         "skill":32,
         "project":"0",
@@ -22,7 +22,7 @@
         "rank":"d"
     },
      {            "id":3,
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Thavisouk%20.png",
+                "img": "https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/Thavisouk%20.png",
                 "name": "Thavisouk Minalavong",
                 "skill": "32",
                 "project": 2,
