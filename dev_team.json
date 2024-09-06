@@ -6,7 +6,7 @@
         "skill":6,
         "project":"0",
         "Year":"0",
-        "xp":"250",
+        "xp":"250/3,000",
          "status": "Dev",
         "rank":"F"
     },
@@ -17,7 +17,7 @@
         "skill":18,
         "project":0,
         "Year":"0",
-        "xp":"250",
+        "xp":"250/10,000",
         "status": "Dev",
         "rank":"E"
     },
@@ -27,7 +27,7 @@
                 "skill": "32",
                 "project": 2,
                 "Year": "1.5",
-                "xp": "10000",
+                "xp": "1,2000/20,000",
                 "status": "Dev",
                  "rank":"D"
             }
