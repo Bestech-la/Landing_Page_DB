@@ -12,18 +12,7 @@
     },
     {
         "id":2,
-        "img":"https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
-        "name":"jeng",
-        "skill":32,
-        "project":2,
-        "Year":"1.5",
-        "xp":"10000",
-        "status": "Dev",
-        "rank":"d"
-    },
-    {
-        "id":3,
-        "img":"https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
+        "img":"https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/WhatsApp%20Image%202024-09-06%20at%2010.24.01-Photoroom.png",
         "name":"Oudone PHENGKHAMLAR",
         "skill":32,
         "project":0,
@@ -32,7 +21,7 @@
         "status": "Dev",
         "rank":"d"
     },
-     {            "id":4,
+     {            "id":3,
                 "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Thavisouk%20.png",
                 "name": "Thavisouk Minalavong",
                 "skill": "32",
