@@ -22,47 +22,9 @@
                 "FB": "#",
                 "IG": "#",
                 "status": "Advisor"
-            },
-            {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/unkown.jpg",
-                "name": "Can be you",
-                "title": "CIO",
-                "profile": "ຜູ້ຊ່ຽວຊານທາງດ້ານການວີເຄາະ Data ໃຫ້ເກີດໝາກຜົນ",
-                "WA": "20XXXXXXXX",
-                "FB": "#",
-                "IG": "#",
-                "status": "CIO"
-            },
-            {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Thavisouk%20.png",
-                "name": "Thavisouk Minalavong",
-                "title": "Senior Data Analst",
-                "profile": "ມີຄວາມອົດທົນໃນການແກ້ໄຂບັນຫາ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, TypeScript, Javascript",
-                "WA": "#",
-                "FB": "#",
-                "IG": "#",
-                "status": "Dev"
-            },
-            {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Med.png",
-                "name": "Med Saignaleuth",
-                "title": "Senior Computer Scientist",
-                "profile": "ມີຄວາມລະອຽດໃນໜ້າທີ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, React Native, Javascript, UX/UI",
-                "WA": "#",
-                "FB": "#",
-                "IG": "#",
-                "status": "Dev"
-            },
-            {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Apple.png",
-                "name": "Apple Phomsungcan",
-                "title": "Senior Computer Scientist",
-                "profile": "ມີຄວາມຄິດສ້າງສັນ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : NodeJS, ReactJS, NextJS, React Native, TailwindCSS",
-                "WA": "2095188702",
-                "FB": "https://web.facebook.com/profile.php?id=100012618940519",
-                "IG": "#",
-                "status": "Dev"
             }
+         
+          
         ]
     }
 ]
