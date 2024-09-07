@@ -8,7 +8,7 @@
         "Year":"0",
         "xp":"300/3,000",
          "status": "Dev",
-        "rank":"F"
+        "rank":"White Belt"
     },
     {
         "id":2,
@@ -19,7 +19,7 @@
         "Year":"0",
         "xp":"300/10,000",
         "status": "Dev",
-        "rank":"E"
+        "rank":"Yellow Belt"
     },
      {            "id":3,
                 "img": "https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/Thavisouk%20.png",
@@ -29,6 +29,6 @@
                 "Year": "1.5",
                 "xp": "12,000/20,000",
                 "status": "Dev",
-                 "rank":"D"
+                 "rank":"Red Belt"
             }
 ]
