@@ -21,14 +21,26 @@
         "status": "Dev",
         "rank":"E"
     },
-     {            "id":3,
-                "img": "https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/Thavisouk%20.png",
-                "name": "Thavisouk Minalavong",
-                "skill": "32/48 (📖: 1/10)",
-                "project": 2,
-                "Year": "1.5",
-                "xp": "12,000/20,000",
-                "status": "Dev",
-                 "rank":"D "
-            }
+     {            
+        "id":3,
+        "img": "https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/Thavisouk%20.png",
+        "name": "Thavisouk Minalavong",
+        "skill": "32/48 (📖: 1/10)",
+        "project": 2,
+        "Year": "1.5",
+        "xp": "12,000/20,000",
+        "status": "Dev",
+         "rank":"D "
+    },
+    {
+        "id":3,
+        "img": "https://raw.githubusercontent.com/Bestech-la/Landing_Page_DB/main/IMG-Dev/silivanxaypng",
+        "name": "Dr. Silivanxay Phetsouvanh",
+        "skill": "112/128",
+        "project": 11,
+        "Year": "10",
+        "xp": "team of 3/6",
+        "status": "Dev",
+        "rank":"A"
+    }
 ]
